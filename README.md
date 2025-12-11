@@ -7,7 +7,7 @@
 - Porovná hlavičku s příponou souboru
 - Varuje, pokud hlavička nedpovídá s příponou souboru
 
-##Použití
+## Použití
 - Ve složce testfiles se nachází soubory, které se dají využít jako testovací soubory.
 
 ### Příklad použití v CMD
