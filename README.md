@@ -9,6 +9,7 @@
 
 ## Použití
 - Ve složce testfiles se nachází soubory, které se dají využít jako testovací soubory.
+- Já využiji skrytý fake_program.exe soubor, kterého přípona byla změněna na .jpg. 
 
 ### Příklad použití v CMD
 ```bash
